@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yallabalaji&label=Profile%20views&color=0e75b6&style=flat" alt="yallabalaji" /> </p>
 
-- 🔭 I’m currently working on [EDA on The State of Developer Ecosystem in 2022](https://github.com/yallabalaji/exploratory-data-analysis-jet-brains)
+- 🔭 I’m currently working on [Machine Learning Project on Microsoft Malware Analysis](https://github.com/yallabalaji/MachineLearning)
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on [EDA on World Developer Indicators in 2022](https://github.com/yallabalaji/exploratory-data-analysis-WDI)
+- 👯 I’m looking to collaborate on [EDA on The State of Developer Ecosystem in 2022](https://github.com/yallabalaji/exploratory-data-analysis-jet-brains)
 
 - 🤝 I’m looking for help with [Personal Website](https://github.com/yallabalaji/yallabalaji.github.io)
 
