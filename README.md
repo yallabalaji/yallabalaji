@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yalla Balaji</h1>
-<h3 align="center">Passionate about data science and machine learning, I've dedicated 500+ hours to intensive coursework, completed 10 coding assignments, and delivered 3 impactful projects (Web scraping, EDA, ML). Currently excelling as an SDET at Wipro, I'm eager to transition into a data science role where I can unleash my analytical prowess to drive informed decision-making. Let's connect and explore how we can make a difference together.</h3>
+<h3 align="center">Passionate about data science and machine learning, I've dedicated 500+ hours to intensive coursework, completed 10 coding assignments, and delivered 3 impactful projects (Web scraping, EDA, ML). Currently excelling as an SDE at Wipro, I'm eager to transition into a data science role where I can unleash my analytical prowess to drive informed decision-making. Let's connect and explore how we can make a difference together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yallabalaji&label=Profile%20views&color=0e75b6&style=flat" alt="yallabalaji" /> </p>
 
