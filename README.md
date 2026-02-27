@@ -1,33 +1,102 @@
-<h1 align="center">Hi 👋, I'm Yalla Balaji</h1>
-<h3 align="center">Passionate about data science and machine learning, I've dedicated 500+ hours to intensive coursework, completed 10 coding assignments, and delivered 3 impactful projects (Web scraping, EDA, ML). Currently excelling as an SDE at Wipro, I'm eager to transition into a data science role where I can unleash my analytical prowess to drive informed decision-making. Let's connect and explore how we can make a difference together.</h3>
+# Hi, I'm Balaji Yalla 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yallabalaji&label=Profile%20views&color=0e75b6&style=flat" alt="yallabalaji" /> </p>
+**Backend Engineer | AI Agent Systems & Microservices | Uber**
 
-- 🔭 I’m currently working on [Machine Learning Project on Microsoft Malware Analysis](https://github.com/yallabalaji/MachineLearning)
+I'm a Backend Engineer with 4+ years of experience building scalable microservices, workflow engines, and distributed systems. Currently building LLM-integrated autonomous support systems at Uber, serving millions of users across global markets.
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+Previously at Wipro (FedEx), I introduced ephemeral environments, engineered virtual services, and built reliable messaging solutions for FedEx's global shipment platform.
 
-- 👯 I’m looking to collaborate on [EDA on The State of Developer Ecosystem in 2022](https://github.com/yallabalaji/exploratory-data-analysis-jet-brains)
+---
 
-- 🤝 I’m looking for help with [Personal Website](https://github.com/yallabalaji/yallabalaji.github.io)
+### 🔧 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://jovian.com/yallabalaji1](https://jovian.com/yallabalaji1)
+**Languages & Frameworks**
 
-- 📝 I regularly write articles on [https://medium.com/@yallabalaji1](https://medium.com/@yallabalaji1)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 💬 Ask me about **Python, Pandas , Numpy, Scikit Learn, EDA ,Java, Selenium**
+**Backend & Infrastructure**
 
-- 📫 How to reach me **yallabalaji1@gmail.com**
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![JMS](https://img.shields.io/badge/JMS_(IBM_MQ/ActiveMQ)-FF6600?style=for-the-badge&logo=apache&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1t4oornnyey9dySPiwSamb0g1i7wS3SA9Hq-GodcVmhY/edit](https://docs.google.com/document/d/1t4oornnyey9dySPiwSamb0g1i7wS3SA9Hq-GodcVmhY/edit)
+**Cloud, DevOps & Monitoring**
 
-- ⚡ Fun fact **I Love Playing Games**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![PCF](https://img.shields.io/badge/PCF-326CE5?style=for-the-badge&logo=pivotaltracker&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yalla-balaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yalla-balaji/" height="30" width="40" /></a>
-<a href="https://medium.com/@yallabalaji1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yallabalaji1" height="30" width="40" /></a>
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Testing**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+![Wiremock](https://img.shields.io/badge/Wiremock-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+### 💼 Where I've Worked
+
+| Company | Role | Duration | Highlights |
+|---------|------|----------|------------|
+| **Uber** | Application Developer 3 | Mar 2025 – Present | AI Agent systems, cancellation workflow overhaul (7-figure savings), compliance engines, Switch Payment V2 |
+| **Wipro (FedEx)** | Backend Engineer | May 2022 – Mar 2025 | Ephemeral environments (10+ microservices), JMS messaging, virtual services, Splunk dashboards, load testing |
+
+---
+
+### 🚀 Featured Projects
+
+#### [Route Optimization & Hub Management System](https://github.com/yallabalaji)
+Full-stack MERN + TypeScript logistics platform with Dijkstra's shortest path algorithm, JWT/RBAC auth, Swagger-documented APIs, and CI/CD deployment on Vercel + Render.
+
+#### [AMEX Credit Card Default Prediction — ML Pipeline](https://github.com/yallabalaji)
+End-to-end production ML pipeline processing 11M+ rows (5 GB), benchmarking 4 gradient boosting models (Top 30% on Kaggle). Jenkins CI/CD for automated training-to-submission lifecycle.
+
+#### [Android Device Manager — macOS Desktop App](https://github.com/yallabalaji)
+Native macOS app (Swift/SwiftUI) for managing Android devices over ADB — dual-pane file browser, storage analytics dashboard, and video streaming with adaptive buffering.
+
+---
+
+### 🏆 Awards & Recognition
+
+- 🏅 **3x CST Xtra Award (Uber)** — Recognized for Switch Payment V2 delivery, Rider workflow ownership, and Rosetta key automation
+- 🏅 **7x Awarded at Wipro** — Avenger Best Team Unit, Inspiring Performance, Victory League, and Habit Flagbearer for ephemeral environments, service virtualization, and load testing leadership
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yallabalaji&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yallabalaji&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalla-balaji/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yallabalaji1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yallabalaji)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yallabalaji&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
