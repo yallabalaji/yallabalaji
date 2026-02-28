@@ -4,7 +4,7 @@
 
 I'm a Backend Engineer with 4+ years of experience building scalable microservices, workflow engines, and distributed systems. Currently building LLM-integrated autonomous support systems at Uber, serving millions of users across global markets.
 
-Previously at Wipro (FedEx), I introduced ephemeral environments, engineered virtual services, and built reliable messaging solutions for FedEx's global shipment platform.
+Previously at Wipro (FedEx), I worked on ephemeral environments, engineered virtual services, and built reliable messaging solutions for FedEx's shipment platform.
 
 ---
 
