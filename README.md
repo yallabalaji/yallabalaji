@@ -9,7 +9,10 @@
 
 I am a Backend Engineer with over 4 years of experience specializing in high-throughput microservices, transaction pipelines, and workflow orchestration engines.
 
-*   **At Uber**: Spearheaded core components of our LLM-powered support platform, optimized transaction cancellation flows, and delivered critical compliance and Rosetta localization engines. Recently engineered a modular, pluggable integration layer that communicates with Uber microservices to supply real-time context to autonomous AI agents, built for high-scale extensibility.
+*   **At Uber**:
+    *   Currently designing and shipping a highly extensible integration layer (featuring **100+ modular, pluggable functions**) that communicates with internal microservices to feed real-time context directly to autonomous AI agents.
+    *   Previously engineered core support workflows, optimized transaction cancellation pipelines and **Switch Payments**, and delivered critical compliance engines.
+    *   Individually contributed to the **Rosetta localization engine**, drastically reducing developer bandwidth by automating bulk language translations for frontend content.
 *   **Previously at Wipro (FedEx)**: Engineered ephemeral environments, designed reliable JMS pipelines (IBM MQ), and built custom service virtualization tools to scale test environments.
 
 ---
