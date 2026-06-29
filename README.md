@@ -70,6 +70,6 @@ A complete logistical hub management platform using Dijkstra's algorithm for sho
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yallabalaji&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yallabalaji&layout=compact&theme=nord" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yallabalaji&show_icons=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yallabalaji&layout=compact&theme=nord" alt="Top Langs" />
 </p>
