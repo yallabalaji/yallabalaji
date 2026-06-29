@@ -1,82 +1,65 @@
 # Hi, I'm Balaji Yalla 👋
 
-**Backend Engineer | AI Agent Systems & Microservices | Uber**
-
-I'm a Backend Engineer with 4+ years of experience building scalable microservices, workflow engines, and distributed systems. Currently building LLM-integrated autonomous support systems at Uber, serving millions of users across global markets.
-
-Previously at Wipro (FedEx), I worked on ephemeral environments, engineered virtual services, and built reliable messaging solutions for FedEx's shipment platform.
+**Backend Engineer | Distributed Systems & AI Agent Frameworks**
+*Currently building LLM-integrated autonomous support systems at [Uber](https://uber.com)*
 
 ---
 
-### 🔧 Tech Stack
+### 🚀 About Me
 
-**Languages & Frameworks**
+I am a Backend Engineer with over 4 years of experience specializing in high-throughput microservices, transaction pipelines, and workflow orchestration engines.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Infrastructure**
-
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=swagger&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![JMS](https://img.shields.io/badge/JMS_(IBM_MQ/ActiveMQ)-FF6600?style=for-the-badge&logo=apache&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-**Cloud, DevOps & Monitoring**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![PCF](https://img.shields.io/badge/PCF-326CE5?style=for-the-badge&logo=pivotaltracker&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Testing**
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
-![Wiremock](https://img.shields.io/badge/Wiremock-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+*   **At Uber**: I lead core components of our LLM-powered support platform, optimize transaction cancellation flows, and deliver critical compliance and Rosetta localization engines.
+*   **Previously at Wipro (FedEx)**: Engineered ephemeral environments, designed reliable JMS pipelines (IBM MQ), and built custom service virtualization tools to scale test environments.
 
 ---
 
-### 💼 Where I've Worked
+### 🔧 Tech Stack & Ecosystem
 
-| Company | Role | Duration | Highlights |
-|---------|------|----------|------------|
-| **Uber** | Application Developer 3 | Mar 2025 – Present | AI Agent systems, cancellation workflow overhaul (7-figure savings), compliance engines, Switch Payment V2 |
-| **Wipro (FedEx)** | Backend Engineer | May 2022 – Mar 2025 | Ephemeral environments (10+ microservices), JMS messaging, virtual services, Splunk dashboards, load testing |
-
----
-
-### 🚀 Featured Projects
-
-#### [Route Optimization & Hub Management System](https://github.com/yallabalaji)
-Full-stack MERN + TypeScript logistics platform with Dijkstra's shortest path algorithm, JWT/RBAC auth, Swagger-documented APIs, and CI/CD deployment on Vercel + Render.
-
-#### [AMEX Credit Card Default Prediction — ML Pipeline](https://github.com/yallabalaji)
-End-to-end production ML pipeline processing 11M+ rows (5 GB), benchmarking 4 gradient boosting models (Top 30% on Kaggle). Jenkins CI/CD for automated training-to-submission lifecycle.
-
-#### [Android Device Manager — macOS Desktop App](https://github.com/yallabalaji)
-Native macOS app (Swift/SwiftUI) for managing Android devices over ADB — dual-pane file browser, storage analytics dashboard, and video streaming with adaptive buffering.
+| Layer | Technologies |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Infrastructure & Messaging** | ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=google&logoColor=white) ![JMS](https://img.shields.io/badge/-JMS_(IBM_MQ)-FF6600?style=flat-square&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Databases & Caching** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 
 ---
 
-### 🏆 Awards & Recognition
+### 📂 Featured Open-Source Projects
 
-- 🏅 **3x CST Xtra Award (Uber)** — Recognized for Switch Payment V2 delivery, Rider workflow ownership, and Rosetta key automation
-- 🏅 **7x Awarded at Wipro** — Avenger Best Team Unit, Inspiring Performance, Victory League, and Habit Flagbearer for ephemeral environments, service virtualization, and load testing leadership
+#### 🛡️ [Zero Inbox Engine](https://github.com/yallabalaji/zero-inbox-engine)
+A blazing-fast, privacy-first CLI tool written in **Rust** that analyzes email archives (`.mbox` files) locally and generates forensic reports.
+*   **Architecture**: Decoupled Rust analyzer engine + [Zero Inbox Dashboard](https://github.com/yallabalaji/zero-inbox-dashboard) frontend.
+*   *Key Skills: Rust, local data forensics, performance optimization.*
+
+#### 📱 [Android Device Manager](https://github.com/yallabalaji/macos-android-manager)
+A native macOS desktop client built with **Swift and SwiftUI** to manage connected Android devices over ADB.
+*   **Features**: Automated device detection, live file browsing, storage analytics dashboard, and local backup utility.
+*   *Key Skills: Swift, SwiftUI, AppKit integration, macOS system calls.*
+
+#### 💳 [AMEX Default Prediction Pipeline](https://github.com/yallabalaji/AMEX)
+An end-to-end Machine Learning pipeline processing 11M+ rows of credit card data to predict customer defaults.
+*   **Stack**: Python, Jupyter, XGBoost/LightGBM, Jenkins CI/CD.
+*   *Key Skills: Big data processing, predictive modeling, automation pipelines.*
+
+#### 🚚 [Ship Mantra Logistics Platform](https://github.com/yallabalaji/ship-mantra-backend)
+A complete logistical hub management platform using Dijkstra's algorithm for shortest-path optimization.
+*   **Architecture**: TypeScript, MERN Stack, swagger-documented REST APIs.
+*   *Key Skills: Shortest path routing, API design, JWT authentication.*
+
+---
+
+### 📚 Study & Reference Handbooks
+
+*   🧠 **[DSA Patterns Book](https://github.com/yallabalaji/dsa-patterns-book)**: A structured pattern-based guide to coding interviews, covering tree traversals, backtracks, graphs, and dynamic programming.
+*   🧱 **[System Design Patterns Book](https://github.com/yallabalaji/system-design-patterns-book)**: A handbook highlighting essential building blocks (Load Balancing, Consistent Hashing, Sharding, Message Queues) for SDE-2/3 preparation.
+
+---
+
+### 🏆 Key Career Awards
+
+*   🏅 **3x CST Xtra Award (Uber)** — Delivered payment gateways, rider workflow cancellations (7-figure impact), and Rosetta automations.
+*   🏅 **7x Wipro Excellence Awards** — Recognized for load testing leadership, service virtualization tooling, and ephemeral pipeline management.
 
 ---
 
@@ -84,10 +67,9 @@ Native macOS app (Swift/SwiftUI) for managing Android devices over ADB — dual-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yalla-balaji/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yallabalaji1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yallabalaji)
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yallabalaji&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yallabalaji&show_icons=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yallabalaji&layout=compact&theme=nord" alt="Top Langs" />
 </p>
