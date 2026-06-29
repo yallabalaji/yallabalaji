@@ -69,7 +69,3 @@ A complete logistical hub management platform using Dijkstra's algorithm for sho
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yallabalaji1@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yallabalaji&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yallabalaji&layout=compact&theme=nord" alt="Top Langs" />
-</p>
